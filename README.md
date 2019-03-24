@@ -22,6 +22,6 @@ Acesories | kacamata | 5 | - [] Rp. 50.ribu
 
 **PILIH PRODUK**
 
-- [ ] Jasa [kirim Pesan]("email": "46821030+BuatApkOlshop@users.noreply.github.com",)
+- [ ] Jasa ["email": ]("46821030+BuatApkOlshop@users.noreply.github.com",)
 - [ ] Acesories
 - [ ] Produk
