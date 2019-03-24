@@ -1,4 +1,4 @@
 # Kategori
 Kategori produk upload
 
-[Buka](Kategori/Image/Url.md)
+[readme.md](Kategori/Image/Url.md)
