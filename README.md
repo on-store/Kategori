@@ -1,3 +1,4 @@
 # Kategori
 Kategori produk upload
-[Buka](/kategori/Image/url.md)
+
+[Buka](Kategori/Image/Url.md)
