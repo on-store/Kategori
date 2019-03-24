@@ -12,9 +12,17 @@ Kategori produk upload
 
 PRODUK | ITEM | JUMLAH | HARGA
 ------------ | ------------- | ------------- | -------------
-Acesories | kacamata | 5 | Rp. 50.ribu
+Acesories | kacamata | 5 | - [] Rp. 50.ribu
  | | Gelang | 5 | Rp. 75.ribu
   | | Jam Tangan | 7 | Rp. 50. ribu
   Pakaian | Jas | 5 | Rp. 120. ribu
    | | Celana Pendek | 7 | Rp. 150. ribu
    
+---
+
+**PILIH PRODUK**
+
+- [ ] Jasa [kirim Pesan](46821030+BuatApkOlshop@users.noreply.github.com)
+- [ ] Pakaian
+- [ ] Acesories
+- [ ] Produk
