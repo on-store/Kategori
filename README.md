@@ -8,3 +8,13 @@ Kategori produk upload
 ---
 
 [readme.md](https://github.com/on-store/Kategori/blob/master/Image/Url.md)
+
+
+PRODUK | ITEM | JUMLAH | HARGA
+------------ | ------------- | ------------- | -------------
+Acesories | kacamata | 5 | Rp. 50.ribu
+ | | Gelang | 5 | Rp. 75.ribu
+  | | Jam Tangan | 7 | Rp. 50. ribu
+  Pakaian | Jas | 5 | Rp. 120. ribu
+   | | Celana Pendek | 7 | Rp. 150. ribu
+   
